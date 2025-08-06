@@ -1,0 +1,11 @@
+id = "morloc"
+name = "morloc"
+version = "0.0.1"
+schema_version = 1
+authors = ["z@morloc.io"]
+description = "An extension for the Morloc language"
+repository = "https://github.com/morloc-project/morloc-zed-extension"
+
+[grammars.morloc]
+    repository = "https://github.com/morloc-project/tree-sitter-morloc"
+    rev = "956d0a9ffeb380a3356c22cf4de727be178b8be5"

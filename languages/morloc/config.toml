@@ -1,0 +1,7 @@
+name = "Morloc"
+grammar = "morloc"
+path_suffixes = ["loc"]
+line_comments = ["--"]
+tab_size = 4
+hard_tabs = false # indent with space
+collapsed_placeholder = "-- ..."
